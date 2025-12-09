@@ -1,0 +1,7 @@
+{
+  "name": "LuxeBook Salon",
+  "description": "A modern, responsive salon booking application featuring geolocation-based salon discovery, service selection, and QR-code appointment confirmation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
